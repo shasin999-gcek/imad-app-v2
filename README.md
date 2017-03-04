@@ -1,3 +1,2 @@
-# imad-app-v2
-
-IMAD V2 course application.
+# liveschool
+Social networking site for university students by NodeJS
