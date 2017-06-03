@@ -1,6 +1,5 @@
 var clock = function() {
-    var d = new Date();
-    document.getElementById('clock-div').innerHtml = d.toLocaleTimeString();
+    document.getElementById('clock-div').innerHtml = Date.now();
 }
 
 setInterval(clock, 1000);
