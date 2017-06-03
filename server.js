@@ -24,7 +24,7 @@ app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
 
-app.get('/ui/react.svg', function() {
+app.get('/ui/react.svg', function(req, res) {
    res.sendFile(path.join(__dirname, 'ui', 'react.svg')); 
 });
 
