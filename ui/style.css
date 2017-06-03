@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
 body {
-    font-family: sans-serif;
+    font-family: 'Josefin Slab', sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
 }
