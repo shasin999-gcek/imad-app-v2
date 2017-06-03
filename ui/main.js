@@ -1,4 +1,4 @@
-var clock = function() {
+function clock() {
     document.getElementById('clock-div').innerHtml = Date.now();
 }
 
