@@ -1,2 +1,2 @@
-# liveschool
-Social networking site for university students by NodeJS
+# imad App
+simple imad app
