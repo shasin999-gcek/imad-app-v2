@@ -3,4 +3,4 @@ var clock = function() {
     document.getElementById('clock-div').innerHtml = d.toLocalTimeString();
 }
 
-setInterwell(clock, 1000);
+setInterval(clock, 1000);
